@@ -1,0 +1,51 @@
+---
+title: "HOLA"
+subtitle: "SOY ÁNGEL MORETA"
+format:
+  revealjs: 
+    slide-number: true
+    chalkboard: 
+      buttons: false
+    preview-links: auto
+    logo: RTG-FINANCE-logo-01.jpg
+    css: styles.css
+    footer: <https://rtgfinance.com/>
+resources:
+  - demo.pdf
+---
+
+## SOY BRÓKER DE CRÉDITO
+
+![](Tarjeta_files/angel.jpg){fig-align="center" width="100%"}
+
+Puedo ayudarte a conseguir el **máximo financiamiento** para la compra de tu futura vivienda, en las **condiciones más favorables** y sobre todo con el **tipo de interés más bajo** que existe actualmente en el mercado.
+
+¿Quieres conocer los detalles?, tienes que leer nuestro artículo de prensa:[Claves esenciales para la adquisición de tu vivienda](https://www.levante-emv.com/vivienda-en-valencia/2024/01/29/asegura-hipoteca-comprar-claves-esenciales-97292771.html)
+
+## ¡Mi objetivo es ayudarte!
+
+Estoy convencido que te identificas con alguno de estos casos:
+
+-   ¿Hasta cuándo vas a vivir de alquiler? ¡Es momento de comprar tu primera vivienda!
+
+-   Comprar la casa para tu segunda residencia sí es posible.
+
+-   La forma más inteligente de invertir tus ingresos es comprar bienes inmuebles: adquiere un piso para ponerlo en alquiler.
+
+[**Puedo ayudarte con un estudio hipotecario gratuito.**]{.underline}
+
+## ¡contáctanos!
+
+WhatsApp: +34 636147030
+
+email: angel.moreta\@rtgfinance.com
+
+### Visita nuestra web [www.rtgfinance.com](https://rtgfinance.com/) y conoce nuestros servicios
+
+![](Tarjeta_files/RTG-FINANCE-logo-01.jpg)
+
+## ¿Por qué es tan importante contar con un asesor de crédito hipotecario?
+
+![](Tarjeta_files/claves.png){fig-align="center" width="500"}
+
+Te invitamos a que leas nuestro blog: [El verdadero ahorro está en la hipoteca: por qué elegir bien puede ahorrarte mucho más que negociar el precio de tu casa](https://rtgfinance.com/rtgfinance/el-ahorro-esta-en-la-hipoteca/)
